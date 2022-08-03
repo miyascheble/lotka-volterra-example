@@ -82,3 +82,4 @@ What happens as you change the different parameters (and re-run the entire code 
 -   $\gamma$ is a mortality rate for predator
 
 ## End
+Save, stage, commit, push back to remote repo
